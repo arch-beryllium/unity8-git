@@ -7,7 +7,7 @@ index 9843254eb..801acb1fc 100644
              width: parent.width
              height: width * .9
 -            color: UbuntuColors.orange
-+            color: "#1793d1"
++            color: "#ffffff"
              readonly property bool highlighted: root.highlightIndex == -1;
  
              Image {

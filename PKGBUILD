@@ -2,7 +2,7 @@ pkgbase=unity8
 pkgname=(unity8-git indicators-client-git)
 _pkgname=unity8
 pkgver=r18273.78cac2dcc
-pkgrel=2
+pkgrel=3
 url='https://github.com/ubports/unity8'
 arch=(x86_64 i686 armv7h aarch64)
 license=(LGPL3)
@@ -17,7 +17,7 @@ source=('git+https://github.com/ubports/unity8.git#branch=xenial_-_edge_-_waylan
         'https://gitlab.manjaro.org/manjaro-arm/packages/community/lomiri-dev/unity8-git/-/raw/master/0001-Move-indicator-dbus-calls-to-org.ayatana.patch')
 sha256sums=('SKIP'
             'e5d335f3a508aa2660e0c04719dd79b391f3badaff1e6072409fe60c30847482'
-            'cd9fc796063460e54cf879382f97991e081b7147fe30bb8e57493e9104e6925c'
+            '4cf40251257a438e0b29c8a4e4322382ab7fef168403a9cf3bb1a6b199cb219d'
             'f28deb38ccc6556a749d6d4f0bccd7e6a0166c2880d3fcb78898343c274f92f3'
             '273f7b342642ed5240cd138911395ee72f45d3cb1509e3f6b78b3f5ec9d5c233'
             '905c7e4798a8cc41649d532ee097a63f98c85507ec29059f353a082ad0b0f0a0')
